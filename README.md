@@ -1,5 +1,5 @@
 # ¡Hola! Soy Justin
-https://img.shields.io/github/stars/<arepaHub>
+lıllılı.ıllı.ılılıı
 
 ### Sobre mí
 Desarrollador frontend independiente, enfocado en crear interfaces modernas y eficientes. Soy un aprendiz constante y utilizo la lógica y el pensamiento creativo para resolver problemas y transformar ideas en aplicaciones funcionales. 
