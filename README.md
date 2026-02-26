@@ -1,7 +1,10 @@
 # ¡Hola! Soy Justin
+https://img.shields.io/github/stars/<arepaHub>
 
 ### Sobre mí
-Desarrollador frontend independiente, enfocado en crear interfaces modernas y eficientes. Soy un aprendiz constante y utilizo la lógica y el pensamiento creativo para resolver problemas y transformar ideas en aplicaciones funcionales. **Un buen cafe es un buen desarrollo ☕**
+Desarrollador frontend independiente, enfocado en crear interfaces modernas y eficientes. Soy un aprendiz constante y utilizo la lógica y el pensamiento creativo para resolver problemas y transformar ideas en aplicaciones funcionales. 
+
+**Un buen cafe es un buen desarrollo ☕**
 
 ### Habilidades 
 
